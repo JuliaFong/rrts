@@ -5,7 +5,6 @@ interface AppProps {
     color?: string;
 }
 
-
 class App extends React.Component {
    state = { counter: 0 }
 
