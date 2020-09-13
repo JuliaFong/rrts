@@ -2,6 +2,12 @@
 # React Redux TypeScript Project
 * learn how to use React Redux and TypeScript together
 
+# Technologies used
+* TypeScript
+* React.js
+
+# API
+
 # Learning Goals
 * Learn how to use React Redux and TypeScript together
 * Review TypeScript
