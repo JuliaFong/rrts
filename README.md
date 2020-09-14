@@ -6,6 +6,7 @@
 * TypeScript
 * React.js
 * Redux Library
+* HTML5
 
 # API JSONPlaceholder
 * Utilize a fake online REST API for Testing
@@ -18,6 +19,8 @@
 * Learn more about type definitions and how to use them in conjunction of React, Redux, and TypeScript
 * Learn how to implement add and delete functions
 * Utilize type alias of action and action type of enums 
+* Understand 
+* Learn how to export action types
 
 ![Full render list](full.png)
 ![short render list](short.png)
