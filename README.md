@@ -13,4 +13,5 @@
 * Review TypeScript
 * Get a deeper understanding of Redux
 * Learn more about type definitions and how to use them in conjunction of React, Redux, and TypeScript
+* Learn how to implement add and delete functions
 
