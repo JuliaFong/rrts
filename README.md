@@ -4,7 +4,7 @@
 
 # Technologies used
 * TypeScript
-* React.js
+* React
 * Redux Library
 * HTML5
 
